@@ -1,6 +1,6 @@
 # ISW imprint of a cosmic void: interactive explorer
 
-**Live page: https://nestak2.github.io/isw-void-explorer-/**
+**Live page: https://nestak2.github.io/isw-void-explorer/**
 
 An interactive sky map showing how a cosmic void imprints a cold (or hot) spot on the CMB through the integrated Sachs-Wolfe (ISW) effect. Compare standard ΛCDM with the AvERA simulation (Pataki et al. 2025).
 
