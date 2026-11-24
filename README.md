@@ -26,4 +26,4 @@ This is a teaching toy, not a precision calculation.
 
 ## Run locally / deploy
 
-Released under the Apache-2.0 license (see LICENSE). It is a single static file, `index.html`, with no build step. Open it in a browser, or serve it with GitHub Pages (Settings → Pages → Deploy from branch → `main` / root). It loads the Instrument Sans font from Google Fonts and falls back to system fonts offline.
+Released under the MIT license (see LICENSE). It is a single static file, `index.html`, with no build step. Open it in a browser, or serve it with GitHub Pages (Settings → Pages → Deploy from branch → `main` / root). It loads the Instrument Sans font from Google Fonts and falls back to system fonts offline.
